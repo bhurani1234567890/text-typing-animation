@@ -1,2 +1,2 @@
-# text-typing-animation
+# Welcome to Text Typing Animation
  
